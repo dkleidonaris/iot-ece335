@@ -19,3 +19,4 @@ RPi.GPIO==0.7.1
 rpi_ws281x==5.0.0
 sysv_ipc==1.1.0
 typing_extensions==4.13.2
+influxdb
