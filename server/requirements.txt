@@ -1,0 +1,11 @@
+flask
+requests
+openmeteo-requests
+python-dotenv
+pytz
+pandas
+numpy
+torch
+scikit-learn
+influxdb
+paho-mqtt
