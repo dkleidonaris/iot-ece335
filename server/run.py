@@ -5,8 +5,6 @@ from datetime import datetime, timedelta
 from datetime import timezone as timezone_lib
 import time
 import pytz
-from influxdb_client import InfluxDBClient, Point
-from influxdb_client.client.write_api import SYNCHRONOUS
 from os import getenv
 from dotenv import load_dotenv
 from neural_network.predict import predict
